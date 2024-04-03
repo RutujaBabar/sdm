@@ -1,0 +1,19 @@
+1.	Write a shell script that takes a user’s name as input and greets them
+
+2.	Create a shell script that checks if a file exists in the current directory.
+
+3.	How do you use the for loop to iterate through a list of values?\
+
+4.	Adding Two Numbers takes inputs from the user
+
+5.	Check If a Number is an Even or Odd
+
+6.	Check If a Given Input is a Valid Email ID
+
+7.	Print the current date, time, username, and current working directory.
+
+8.	Write a shell script to delete the lines containing a word <dd> if it appears between the 5th and 7th position
+	ff1 ff2 ff3
+	sds dd fd
+	sd ss ew
+	dd dd se
